@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Food Management System**
 
-- 🌱 I’m currently learning **Angular & NodeJS**
+- 🌱 I’m currently learning **Angular, NodeJS & AWS**
 
 - 👯 I’m looking to collaborate on **with other Angular developers**
 
 - 👨‍💻 All of my projects are available at [https://its-me-amit-kumar-portfolio.netlify.app/](https://its-me-amit-kumar-portfolio.netlify.app/)
 
-- 💬 2023 goals: **work on the open source project**
+- 💬 2024 goals: **work on the open source project**
 
 - 📄 Know about my experiences [https://its-me-amit-kumar-portfolio.netlify.app/](https://its-me-amit-kumar-portfolio.netlify.app/)
 
